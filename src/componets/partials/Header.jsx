@@ -7,6 +7,6 @@ export default function Header({color}) {
        <img className="w-[50px]" alt="logo" src="../img/logo2.png"/>
       </div>
       
-    </div>
+    </ñ
   )
 }
